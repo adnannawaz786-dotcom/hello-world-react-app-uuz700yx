@@ -1,4 +1,4 @@
-```jsx
+
 import React from 'react'
 import { Button } from '../components/ui/button'
 import './App.css'
@@ -46,4 +46,3 @@ function App() {
 }
 
 export default App
-```
